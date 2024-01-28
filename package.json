@@ -1,11 +1,11 @@
 {
   "name": "qr-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple QR generator that prints a QR in the terminal or exports it as a svg or a png file. ",
   "main": "qr-generation.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./qr-generation.js"
   },
   "keywords": [],
   "author": "",
