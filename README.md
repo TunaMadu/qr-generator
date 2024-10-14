@@ -1,1 +1,1 @@
-#qr-generator app 
+# qr-generator app 
